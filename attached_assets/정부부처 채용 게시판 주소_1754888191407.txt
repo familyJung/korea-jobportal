@@ -1,0 +1,51 @@
+대한민국 정부(중앙부처 19부, 3처, 5위원회) 채용 정보
+
+기획재정부 : https://www.moef.go.kr/nw/notice/emrc.do;jsessionid=FzBiPexPRZpNxQLxalwGq2H7YwhB4t59BUq8JqAz.node20?menuNo=4050200
+
+교육부 : https://www.moe.go.kr/boardCnts/listRenew.do?boardID=194&m=020602&s=moe
+
+과학기술정보통신부 : https://www.msit.go.kr/bbs/list.do?sCode=user&mPid=121&mId=125
+
+외교부 : https://www.mofa.go.kr/www/brd/m_4079/list.do
+
+통일부 : https://www.unikorea.go.kr/unikorea/notify/recruit/
+
+법무부 : https://www.moj.go.kr/moj/225/subview.do
+
+국방부 : https://www.mnd.go.kr/user/boardList.action?boardId=I_26382&mcategoryId=&id=mnd_020403000000
+
+행정안전부 : https://www.mois.go.kr/frt/bbs/type013/commonSelectBoardList.do?bbsId=BBSMSTR_000000000006 (행정안전부는 별도의 채용게시판이 없고 '알립니다' 게시판에 채용정보가 올라와서 제목 중에 채용 관련 게시글만 따라 발췌해야함)
+
+국가보훈부 : https://www.mpva.go.kr/mpva/selectBbsNttList.do?bbsNo=360&key=1801
+
+문화체육관광부 : https://www.mcst.go.kr/kor/s_notice/notice/jobList.jsp
+
+농림축산식품부 : https://www.mafra.go.kr/home/5111/subview.do?enc=Zm5jdDF8QEB8JTJGYmJzJTJGaG9tZSUyRjc5NCUyRmFydGNsTGlzdC5kbyUzRg%3D%3D
+
+산업통상자원부 : https://www.motie.go.kr/kor/article/ATCL2527aa115
+
+보건복지부 : https://www.mohw.go.kr/board.es?mid=a10501010400&bid=0003&cg_code=C02
+
+환경부 : https://www.me.go.kr/home/web/index.do?menuId=10530
+
+고용노동부 : https://www.moel.go.kr/news/notice/noticeList.do
+
+여성가족부 : https://www.mogef.go.kr/nw/ntc/nw_ntc_s001.do?div1=13&div3=10
+
+국토교통부 : https://www.molit.go.kr/USR/BORD0201/m_81/BRD.jsp
+
+인사혁신처 : https://www.mpm.go.kr/mpm/info/infoJobs/jobsBoard/?mode=list&boardId=bbs_0000000000000118&category=%EC%B1%84%EC%9A%A9
+
+법제처 : https://www.moleg.go.kr/board.es?mid=a10504000000&bid=0010
+
+식품의약품안전처(식품의약품안전평가원) : https://www.nifds.go.kr/brd/m_22/list.do?page=1&srchFr=&srchTo=&srchWord=&srchTp=&itm_seq_1=0&itm_seq_2=0&multi_itm_seq=0&company_cd=&company_nm=
+
+공정거래위원회 : https://www.ftc.go.kr/www/selectBbsNttList.do?bordCd=4&key=14
+
+국민권익위원회 : https://www.acrc.go.kr/board.es?mid=a10401020000&bid=2B
+
+금융위원회 : https://www.fsc.go.kr/no010104
+
+개인정보보호위원회 : https://www.pipc.go.kr/np/cop/bbs/selectBoardList.do?bbsId=BS208&mCode=C010020000
+
+원자력안전위원회 : https://www.nssc.go.kr/ko/cms/FR_CON/index.do?MENU_ID=180
